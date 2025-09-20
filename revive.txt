@@ -1,0 +1,2 @@
+../../../chavacava/github/deleteme/cert-manager/pkg/controller/controller.go:106:3: replace wg.Add()...go {...wg.Done()...} with wg.Go(...)
+../../../chavacava/github/deleteme/cert-manager/pkg/scheduler/scheduler_test.go:169:3: replace wg.Add()...go {...wg.Done()...} with wg.Go(...)
